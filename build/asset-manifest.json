@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e85dfa9.css",
+    "main.js": "/static/js/main.cc77f380.js",
+    "static/media/cola2.jpg": "/static/media/cola2.267d6f6239f00c0c4b73.jpg",
+    "static/media/roozbeh-badizadegan-y46EzhejDNE-unsplash.jpg": "/static/media/roozbeh-badizadegan-y46EzhejDNE-unsplash.0ec8e0b596baff377c19.jpg",
+    "static/media/avatar2.jpg": "/static/media/avatar2.c273ba3dba30c5357137.jpg",
+    "static/media/avatar1.jpg": "/static/media/avatar1.104fb9bbd65b35679f3d.jpg",
+    "static/media/uzcoder-sertifikat.pdf": "/static/media/uzcoder-sertifikat.acf4c23f8a35766dbf4e.pdf",
+    "static/media/merc-img.jpg": "/static/media/merc-img.a8a6c9f1a515a4fc6cf5.jpg",
+    "static/media/moto1.jpg": "/static/media/moto1.e95035259c9c26ab1fd0.jpg",
+    "static/media/avatar3.jpg": "/static/media/avatar3.27b12af8388806c11423.jpg",
+    "static/media/Portfolio_image.jpg": "/static/media/Portfolio_image.090813be00eea55c956b.jpg",
+    "static/media/index.pdf": "/static/media/index.ebc58a67aaadb6987510.pdf",
+    "index.html": "/index.html",
+    "main.3e85dfa9.css.map": "/static/css/main.3e85dfa9.css.map",
+    "main.cc77f380.js.map": "/static/js/main.cc77f380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e85dfa9.css",
+    "static/js/main.cc77f380.js"
+  ]
+}
